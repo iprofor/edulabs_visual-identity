@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="EduLabs_Logo.svg">
+  <title
+     id="title1636">Dirigio_Logo-Horizontal-1920x1080</title>
+  <defs
+     id="defs2">
+    <color-profile
+       name="sRGB"
+       xlink:href="/usr/share/color/icc/colord/sRGB.icc"
+       id="color-profile4" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1024">
+      <stop
+         style="stop-color:#fb008e;stop-opacity:1"
+         offset="0"
+         id="stop1020" />
+      <stop
+         id="stop1061"
+         offset="0.47102454"
+         style="stop-color:#b31292;stop-opacity:1;" />
+      <stop
+         style="stop-color:#3a329b;stop-opacity:1"
+         offset="1"
+         id="stop1022" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1024"
+       id="radialGradient1140"
+       cx="232.38803"
+       cy="203.55165"
+       fx="232.38803"
+       fy="203.55165"
+       r="164.91145"
+       gradientTransform="matrix(0.55880142,-0.75642253,1.3307467,0.98307698,-38.747289,245.3292)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1024"
+       id="radialGradient1150"
+       cx="232.38803"
+       cy="203.55165"
+       fx="232.38803"
+       fy="203.55165"
+       r="164.91145"
+       gradientTransform="matrix(0.55880142,-0.75642253,1.3307467,0.98307698,-38.747289,245.3292)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1024"
+       id="radialGradient1160"
+       cx="232.38803"
+       cy="203.55165"
+       fx="232.38803"
+       fy="203.55165"
+       r="164.91145"
+       gradientTransform="matrix(0.55880142,-0.75642253,1.3307467,0.98307698,-38.747289,245.3292)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1082">
+      <stop
+         style="stop-color:#fb008e;stop-opacity:1;"
+         offset="0"
+         id="stop1078" />
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:1"
+         offset="1"
+         id="stop1080" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1082"
+       id="radialGradient1174"
+       cx="82.775093"
+       cy="155.32394"
+       fx="82.775093"
+       fy="155.32394"
+       r="49.392979"
+       gradientTransform="matrix(0.41564667,-2.0123389,3.7631423,0.77727416,-538.83843,201.35874)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1024"
+       id="radialGradient1206"
+       cx="232.38803"
+       cy="203.55165"
+       fx="232.38803"
+       fy="203.55165"
+       r="164.91145"
+       gradientTransform="matrix(0.55880142,-0.75642253,1.3307467,0.98307698,-38.747289,245.3292)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1024"
+       id="radialGradient1216"
+       cx="232.38803"
+       cy="203.55165"
+       fx="232.38803"
+       fy="203.55165"
+       r="164.91145"
+       gradientTransform="matrix(0.55880142,-0.75642253,1.3307467,0.98307698,-38.747289,245.3292)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1024"
+       id="radialGradient1226"
+       cx="232.38803"
+       cy="203.55165"
+       fx="232.38803"
+       fy="203.55165"
+       r="164.91145"
+       gradientTransform="matrix(0.55880142,-0.75642253,1.3307467,0.98307698,-38.747289,245.3292)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1082"
+       id="radialGradient1240"
+       cx="82.775093"
+       cy="155.32394"
+       fx="82.775093"
+       fy="155.32394"
+       r="49.392979"
+       gradientTransform="matrix(0.41564667,-2.0123389,3.7631423,0.77727416,-538.83843,201.35874)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="white"
+     bordercolor="#0075ff"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.30920044"
+     inkscape:cx="596.89243"
+     inkscape:cy="366.9417"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid16228"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true"
+       color="#888"
+       opacity="0.25098039"
+       empcolor="#777"
+       empopacity="0.25098039" />
+    <sodipodi:guide
+       position="29.104167,169.33333"
+       orientation="1,0"
+       id="guide14892"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(119,119,119)" />
+    <sodipodi:guide
+       position="478.89583,140.22917"
+       orientation="1,0"
+       id="guide14894"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(119,119,119)" />
+    <sodipodi:guide
+       position="510.64583,29.104167"
+       orientation="0,1"
+       id="guide14896"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(119,119,119)" />
+    <sodipodi:guide
+       position="513.29167,256.64583"
+       orientation="0,1"
+       id="guide14898"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(119,119,119)" />
+    <sodipodi:guide
+       position="567.53125,58.208333"
+       orientation="1,0"
+       id="guide20516"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="587.375,58.208333"
+       orientation="1,0"
+       id="guide20518"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="646.90625,56.885417"
+       orientation="1,0"
+       id="guide20520"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="718.34375,47.625"
+       orientation="1,0"
+       id="guide20522"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="827.03567,78.724554"
+       orientation="1,0"
+       id="guide1504"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dirigio_Logo-Horizontal-1920x1080</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ivan Profor, me@iprofor.it, resume.iprofor.it</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(c) All Rights Reserved</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Ivan Profor, me@iprofor.it, resume.iprofor.it</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>Ivan Profor, me@iprofor.it, resume.iprofor.it</dc:identifier>
+        <dc:language>English</dc:language>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ivan Profor</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Favicons">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12974334px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       x="558.61066"
+       y="226.42186"
+       id="text10243"><tspan
+         sodipodi:role="line"
+         x="558.61066"
+         y="226.42186"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         id="tspan10241">Favicon:</tspan><tspan
+         sodipodi:role="line"
+         x="558.61066"
+         y="230.40517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         id="tspan10245">16 x 16 px</tspan></text>
+    <text
+       id="text10251"
+       y="226.42186"
+       x="576.66058"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12974334px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan10247"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="226.42186"
+         x="576.66058"
+         sodipodi:role="line">Favicon:</tspan><tspan
+         id="tspan10249"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="230.40517"
+         x="576.66058"
+         sodipodi:role="line">32 x 32 px</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12974334px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       x="617.45557"
+       y="226.42186"
+       id="text10257"><tspan
+         sodipodi:role="line"
+         x="617.45557"
+         y="226.42186"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         id="tspan10253">Favicon for iOS Home Screen:</tspan><tspan
+         sodipodi:role="line"
+         x="617.45557"
+         y="230.40517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         id="tspan10255">180 x 180 px</tspan></text>
+    <text
+       id="text10263"
+       y="226.42186"
+       x="682.54352"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12974334px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan10259"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="226.42186"
+         x="682.54352"
+         sodipodi:role="line">Favicon for Android Home Screen:</tspan><tspan
+         id="tspan10261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="230.40517"
+         x="682.54352"
+         sodipodi:role="line">192 x 192 px</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12974334px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       x="915.90674"
+       y="226.42186"
+       id="text10269"><tspan
+         sodipodi:role="line"
+         x="915.90674"
+         y="226.42186"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         id="tspan10265">Favicon for Android Splash Screen:</tspan><tspan
+         sodipodi:role="line"
+         x="915.90674"
+         y="230.40517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         id="tspan10267">512 x 512 px</tspan></text>
+    <text
+       id="text10275"
+       y="64.55439"
+       x="733.27673"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95002365px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan10271"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="64.55439"
+         x="733.27673"
+         sodipodi:role="line">Set of favicons for 3rd party tools/services</tspan><tspan
+         id="tspan10273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.42224598px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="80.74192"
+         x="733.27673"
+         sodipodi:role="line">(clones of the original logo on the left)</tspan></text>
+    <g
+       id="g1502"
+       transform="translate(1.5875)">
+      <text
+         id="text10243-9"
+         y="225.89064"
+         x="771.56799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.12974334px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+         xml:space="preserve"><tspan
+           id="tspan10241-1"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+           y="225.89064"
+           x="771.56799"
+           sodipodi:role="line">G Suite</tspan><tspan
+           id="tspan10245-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+           y="229.87395"
+           x="771.56799"
+           sodipodi:role="line">320 x 132 px</tspan></text>
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/crt/Projects/dirigiosrl/Qubeso_Visual-Identity/_exported/_logo/_full-lockup/Qubeso_Logo_Color-Gradient-GSuite.png"
+         y="144.11113"
+         x="727.57837"
+         height="34.924999"
+         width="84.666664"
+         id="rect2185"
+         style="display:inline;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.93966043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Monotone White"
+     id="g16274"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text19606-0-9-7"
+       y="-6.1801949"
+       x="-0.4345867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan19604-6-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314"
+         y="-6.1801949"
+         x="-0.4345867"
+         sodipodi:role="line"><tspan
+   id="tspan19981-0-44-9"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314">Font: </tspan>Righteous: Normal</tspan></text>
+    <text
+       id="text20013-8-4-0"
+       y="-6.2256298"
+       x="508.28842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan20011-3-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:end;text-anchor:end;fill:gray;stroke-width:0.72365314"
+         y="-6.2256298"
+         x="508.28842"
+         sodipodi:role="line">Version: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.72365314"
+   id="tspan2988-0">Monotone White</tspan></tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Background"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <rect
+         style="display:inline;opacity:1;vector-effect:none;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.38873017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect19022"
+         width="508"
+         height="285.75"
+         x="0"
+         y="0" />
+    </g>
+    <text
+       id="text2142-7-4-5"
+       y="297.25259"
+       x="253.85976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="297.25259"
+         x="254.86327"
+         sodipodi:role="line"
+         id="tspan9484-8-6-5">Colors: <tspan
+   style="font-weight:normal;stroke-width:0.72365314"
+   id="tspan11690-6">White #fff (100%), Gray #ccc (20%) </tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g16276"
+     inkscape:label="Monotone Black"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       id="text19606-0-9"
+       y="-6.1802049"
+       x="-0.4345867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan19604-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314"
+         y="-6.1802049"
+         x="-0.4345867"
+         sodipodi:role="line"><tspan
+   id="tspan19981-0-44"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314">Font: </tspan>Righteous: Normal</tspan></text>
+    <text
+       id="text20013-8-4"
+       y="-6.2256393"
+       x="508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan20011-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:end;text-anchor:end;fill:gray;stroke-width:0.72365314"
+         y="-6.2256393"
+         x="510.00699"
+         sodipodi:role="line">Version: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.72365314"
+   id="tspan2988">Monotone Black </tspan></tspan></text>
+    <text
+       id="text2142-7-4"
+       y="297.25259"
+       x="253.85976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="297.25259"
+         x="254.86327"
+         sodipodi:role="line"
+         id="tspan9484-8-6">Colors: <tspan
+   style="font-weight:normal"
+   id="tspan11690">Black #333 (80%), Gray #b3b3b3 (30%) </tspan></tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Color Gradient"
+     id="g5447"
+     inkscape:groupmode="layer">
+    <text
+       id="text19606-0-5"
+       y="-6.1801786"
+       x="-0.4345867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan19604-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314"
+         y="-6.1801786"
+         x="-0.4345867"
+         sodipodi:role="line"><tspan
+   id="tspan19981-0-8"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314">Font: </tspan>Righteous: Normal</tspan></text>
+    <text
+       id="text20013-8-7"
+       y="-6.2256126"
+       x="508.11456"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan20011-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;fill:gray;stroke-width:0.72365314"
+         y="-6.2256126"
+         x="508.11456"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:end;text-anchor:end;fill:gray;stroke-width:0.72365314"
+   id="tspan20009-78-3">Version: </tspan>Color Gradient</tspan></text>
+    <text
+       id="text2142-7-5"
+       y="297.25259"
+       x="253.85976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="297.25259"
+         x="253.85976"
+         sodipodi:role="line"
+         id="tspan9484-8-0"><tspan
+   id="tspan2138-9-1"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;stroke-width:0.72365314">Colors: </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;stroke-width:0.72365314"
+   id="tspan9488-9-4">Iconic mark -</tspan> Muddy Orange #f87e59; Wordmark  BlueBerry #7669baf</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Color"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       id="text19606-0"
+       y="-6.1801853"
+       x="-0.4345867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan19604-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314"
+         y="-6.1801853"
+         x="-0.4345867"
+         sodipodi:role="line"><tspan
+   id="tspan19981-0"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:start;text-anchor:start;fill:gray;stroke-width:0.72365314">Font: </tspan>Righteous: Normal</tspan></text>
+    <text
+       id="text20013-8"
+       y="-6.2256193"
+       x="508.11456"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         id="tspan20011-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;fill:gray;stroke-width:0.72365314"
+         y="-6.2256193"
+         x="508.11456"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:end;text-anchor:end;fill:gray;stroke-width:0.72365314"
+   id="tspan20009-78">Version: </tspan>Color</tspan></text>
+    <text
+       id="text2142-7"
+       y="297.25259"
+       x="253.85976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09121418px;line-height:1.25;font-family:KacstBook;-inkscape-font-specification:KacstBook;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:gray;fill-opacity:1;stroke:none;stroke-width:0.72365314"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:gray;stroke-width:0.72365314"
+         y="297.25259"
+         x="253.85976"
+         sodipodi:role="line"
+         id="tspan9484-8"><tspan
+   id="tspan2138-9"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;stroke-width:0.72365314">Colors: </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;stroke-width:0.72365314"
+   id="tspan9488-9">Iconic mark -</tspan> Muddy Orange #f87e59; Wordmark  BlueBerry #7669baf</tspan></text>
+  </g>
+</svg>
